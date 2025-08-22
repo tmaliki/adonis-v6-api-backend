@@ -1,0 +1,3154 @@
+[
+  {
+    "id": "1",
+    "country_id": "152",
+    "city": "Aïn Harrouda",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "2",
+    "country_id": "152",
+    "city": "Ben Yakhlef",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "3",
+    "country_id": "152",
+    "city": "Bouskoura",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "4",
+    "country_id": "152",
+    "city": "Casablanca",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "5",
+    "country_id": "152",
+    "city": "Médiouna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "6",
+    "country_id": "152",
+    "city": "Mohammédia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "7",
+    "country_id": "152",
+    "city": "Tit Mellil",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "9",
+    "country_id": "152",
+    "city": "Bejaâd",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "10",
+    "country_id": "152",
+    "city": "Ben Ahmed",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "11",
+    "country_id": "152",
+    "city": "Benslimane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "12",
+    "country_id": "152",
+    "city": "Berrechid",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "13",
+    "country_id": "152",
+    "city": "Boujniba",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "14",
+    "country_id": "152",
+    "city": "Boulanouare",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "15",
+    "country_id": "152",
+    "city": "Bouznika",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "16",
+    "country_id": "152",
+    "city": "Deroua",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "17",
+    "country_id": "152",
+    "city": "El Borouj",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "18",
+    "country_id": "152",
+    "city": "El Gara",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "19",
+    "country_id": "152",
+    "city": "Guisser",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "20",
+    "country_id": "152",
+    "city": "Hattane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "21",
+    "country_id": "152",
+    "city": "Khouribga",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "22",
+    "country_id": "152",
+    "city": "Loulad",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "23",
+    "country_id": "152",
+    "city": "Oued Zem",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "24",
+    "country_id": "152",
+    "city": "Oulad Abbou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "25",
+    "country_id": "152",
+    "city": "Oulad H'Riz Sahel",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "26",
+    "country_id": "152",
+    "city": "Oulad M'rah",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "27",
+    "country_id": "152",
+    "city": "Oulad Saïd",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "28",
+    "country_id": "152",
+    "city": "Oulad Sidi Ben Daoud",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "29",
+    "country_id": "152",
+    "city": "Ras El Aïn",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "30",
+    "country_id": "152",
+    "city": "Settat",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "31",
+    "country_id": "152",
+    "city": "Sidi Rahhal Chataï",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "32",
+    "country_id": "152",
+    "city": "Soualem",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "33",
+    "country_id": "152",
+    "city": "Azemmour",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "34",
+    "country_id": "152",
+    "city": "Bir Jdid",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "35",
+    "country_id": "152",
+    "city": "Bouguedra",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "36",
+    "country_id": "152",
+    "city": "Echemmaia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "37",
+    "country_id": "152",
+    "city": "El Jadida",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "38",
+    "country_id": "152",
+    "city": "Hrara",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "39",
+    "country_id": "152",
+    "city": "Ighoud",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "40",
+    "country_id": "152",
+    "city": "Jamâat Shaim",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "41",
+    "country_id": "152",
+    "city": "Jorf Lasfar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "42",
+    "country_id": "152",
+    "city": "Khemis Zemamra",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "43",
+    "country_id": "152",
+    "city": "Laaounate",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "44",
+    "country_id": "152",
+    "city": "Moulay Abdallah",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "45",
+    "country_id": "152",
+    "city": "Oualidia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "46",
+    "country_id": "152",
+    "city": "Oulad Amrane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "47",
+    "country_id": "152",
+    "city": "Oulad Frej",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "48",
+    "country_id": "152",
+    "city": "Oulad Ghadbane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "49",
+    "country_id": "152",
+    "city": "Safi",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "50",
+    "country_id": "152",
+    "city": "Sebt El Maârif",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "51",
+    "country_id": "152",
+    "city": "Sebt Gzoula",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "52",
+    "country_id": "152",
+    "city": "Sidi Ahmed",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "53",
+    "country_id": "152",
+    "city": "Sidi Ali Ban Hamdouche",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "54",
+    "country_id": "152",
+    "city": "Sidi Bennour",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "55",
+    "country_id": "152",
+    "city": "Sidi Bouzid",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "56",
+    "country_id": "152",
+    "city": "Sidi Smaïl",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "57",
+    "country_id": "152",
+    "city": "Youssoufia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "58",
+    "country_id": "152",
+    "city": "Fès",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "59",
+    "country_id": "152",
+    "city": "Aïn Cheggag",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "60",
+    "country_id": "152",
+    "city": "Bhalil",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "61",
+    "country_id": "152",
+    "city": "Boulemane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "62",
+    "country_id": "152",
+    "city": "El Menzel",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "63",
+    "country_id": "152",
+    "city": "Guigou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "64",
+    "country_id": "152",
+    "city": "Imouzzer Kandar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "65",
+    "country_id": "152",
+    "city": "Imouzzer Marmoucha",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "66",
+    "country_id": "152",
+    "city": "Missour",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "67",
+    "country_id": "152",
+    "city": "Moulay Yaâcoub",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "68",
+    "country_id": "152",
+    "city": "Ouled Tayeb",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "69",
+    "country_id": "152",
+    "city": "Outat El Haj",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "70",
+    "country_id": "152",
+    "city": "Ribate El Kheir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "71",
+    "country_id": "152",
+    "city": "Séfrou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "72",
+    "country_id": "152",
+    "city": "Skhinate",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "73",
+    "country_id": "152",
+    "city": "Tafajight",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "74",
+    "country_id": "152",
+    "city": "Arbaoua",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "75",
+    "country_id": "152",
+    "city": "Aïn Dorij",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "76",
+    "country_id": "152",
+    "city": "Dar Gueddari",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "77",
+    "country_id": "152",
+    "city": "Had Kourt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "78",
+    "country_id": "152",
+    "city": "Jorf El Melha",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "79",
+    "country_id": "152",
+    "city": "Kénitra",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "80",
+    "country_id": "152",
+    "city": "Khenichet",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "81",
+    "country_id": "152",
+    "city": "Lalla Mimouna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "82",
+    "country_id": "152",
+    "city": "Mechra Bel Ksiri",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "83",
+    "country_id": "152",
+    "city": "Mehdia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "84",
+    "country_id": "152",
+    "city": "Moulay Bousselham",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "85",
+    "country_id": "152",
+    "city": "Sidi Allal Tazi",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "86",
+    "country_id": "152",
+    "city": "Sidi Kacem",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "87",
+    "country_id": "152",
+    "city": "Sidi Slimane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "88",
+    "country_id": "152",
+    "city": "Sidi Taibi",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "89",
+    "country_id": "152",
+    "city": "Sidi Yahya El Gharb",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "90",
+    "country_id": "152",
+    "city": "Souk El Arbaa",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "91",
+    "country_id": "152",
+    "city": "Akka",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "92",
+    "country_id": "152",
+    "city": "Assa",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "93",
+    "country_id": "152",
+    "city": "Bouizakarne",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "94",
+    "country_id": "152",
+    "city": "El Ouatia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "95",
+    "country_id": "152",
+    "city": "Es-Semara",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "96",
+    "country_id": "152",
+    "city": "Fam El Hisn",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "97",
+    "country_id": "152",
+    "city": "Foum Zguid",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "98",
+    "country_id": "152",
+    "city": "Guelmim",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "99",
+    "country_id": "152",
+    "city": "Taghjijt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "100",
+    "country_id": "152",
+    "city": "Tan-Tan",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "101",
+    "country_id": "152",
+    "city": "Tata",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "102",
+    "country_id": "152",
+    "city": "Zag",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "103",
+    "country_id": "152",
+    "city": "Marrakech",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "104",
+    "country_id": "152",
+    "city": "Ait Daoud",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "115",
+    "country_id": "152",
+    "city": "Amizmiz",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "116",
+    "country_id": "152",
+    "city": "Assahrij",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "117",
+    "country_id": "152",
+    "city": "Aït Ourir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "118",
+    "country_id": "152",
+    "city": "Ben Guerir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "119",
+    "country_id": "152",
+    "city": "Chichaoua",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "120",
+    "country_id": "152",
+    "city": "El Hanchane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "121",
+    "country_id": "152",
+    "city": "El Kelaâ des Sraghna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "122",
+    "country_id": "152",
+    "city": "Essaouira",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "123",
+    "country_id": "152",
+    "city": "Fraïta",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "124",
+    "country_id": "152",
+    "city": "Ghmate",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "125",
+    "country_id": "152",
+    "city": "Ighounane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "126",
+    "country_id": "152",
+    "city": "Imintanoute",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "127",
+    "country_id": "152",
+    "city": "Kattara",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "128",
+    "country_id": "152",
+    "city": "Lalla Takerkoust",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "129",
+    "country_id": "152",
+    "city": "Loudaya",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "130",
+    "country_id": "152",
+    "city": "Lâattaouia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "131",
+    "country_id": "152",
+    "city": "Moulay Brahim",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "132",
+    "country_id": "152",
+    "city": "Mzouda",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "133",
+    "country_id": "152",
+    "city": "Ounagha",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "134",
+    "country_id": "152",
+    "city": "Sid L'Mokhtar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "135",
+    "country_id": "152",
+    "city": "Sid Zouin",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "136",
+    "country_id": "152",
+    "city": "Sidi Abdallah Ghiat",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "137",
+    "country_id": "152",
+    "city": "Sidi Bou Othmane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "138",
+    "country_id": "152",
+    "city": "Sidi Rahhal",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "139",
+    "country_id": "152",
+    "city": "Skhour Rehamna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "140",
+    "country_id": "152",
+    "city": "Smimou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "141",
+    "country_id": "152",
+    "city": "Tafetachte",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "142",
+    "country_id": "152",
+    "city": "Tahannaout",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "143",
+    "country_id": "152",
+    "city": "Talmest",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "144",
+    "country_id": "152",
+    "city": "Tamallalt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "145",
+    "country_id": "152",
+    "city": "Tamanar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "146",
+    "country_id": "152",
+    "city": "Tamansourt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "147",
+    "country_id": "152",
+    "city": "Tameslouht",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "148",
+    "country_id": "152",
+    "city": "Tanalt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "149",
+    "country_id": "152",
+    "city": "Zeubelemok",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "150",
+    "country_id": "152",
+    "city": "Meknès‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "151",
+    "country_id": "152",
+    "city": "Khénifra",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "152",
+    "country_id": "152",
+    "city": "Agourai",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "153",
+    "country_id": "152",
+    "city": "Ain Taoujdate",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "154",
+    "country_id": "152",
+    "city": "MyAliCherif",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "155",
+    "country_id": "152",
+    "city": "Rissani",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "156",
+    "country_id": "152",
+    "city": "Amalou Ighriben",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "157",
+    "country_id": "152",
+    "city": "Aoufous",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "158",
+    "country_id": "152",
+    "city": "Arfoud",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "159",
+    "country_id": "152",
+    "city": "Azrou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "160",
+    "country_id": "152",
+    "city": "Aïn Jemaa",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "161",
+    "country_id": "152",
+    "city": "Aïn Karma",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "162",
+    "country_id": "152",
+    "city": "Aïn Leuh",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "163",
+    "country_id": "152",
+    "city": "Aït Boubidmane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "164",
+    "country_id": "152",
+    "city": "Aït Ishaq",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "165",
+    "country_id": "152",
+    "city": "Boudnib",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "166",
+    "country_id": "152",
+    "city": "Boufakrane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "167",
+    "country_id": "152",
+    "city": "Boumia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "168",
+    "country_id": "152",
+    "city": "El Hajeb",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "169",
+    "country_id": "152",
+    "city": "Elkbab",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "170",
+    "country_id": "152",
+    "city": "Er-Rich",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "171",
+    "country_id": "152",
+    "city": "Errachidia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "172",
+    "country_id": "152",
+    "city": "Gardmit",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "173",
+    "country_id": "152",
+    "city": "Goulmima",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "174",
+    "country_id": "152",
+    "city": "Gourrama",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "175",
+    "country_id": "152",
+    "city": "Had Bouhssoussen",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "176",
+    "country_id": "152",
+    "city": "Haj Kaddour",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "177",
+    "country_id": "152",
+    "city": "Ifrane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "178",
+    "country_id": "152",
+    "city": "Itzer",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "179",
+    "country_id": "152",
+    "city": "Jorf",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "180",
+    "country_id": "152",
+    "city": "Kehf Nsour",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "181",
+    "country_id": "152",
+    "city": "Kerrouchen",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "182",
+    "country_id": "152",
+    "city": "M'haya",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "183",
+    "country_id": "152",
+    "city": "M'rirt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "184",
+    "country_id": "152",
+    "city": "Midelt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "185",
+    "country_id": "152",
+    "city": "Moulay Ali Cherif",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "186",
+    "country_id": "152",
+    "city": "Moulay Bouazza",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "187",
+    "country_id": "152",
+    "city": "Moulay Idriss Zerhoun",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "188",
+    "country_id": "152",
+    "city": "Moussaoua",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "189",
+    "country_id": "152",
+    "city": "N'Zalat Bni Amar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "190",
+    "country_id": "152",
+    "city": "Ouaoumana",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "191",
+    "country_id": "152",
+    "city": "Oued Ifrane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "192",
+    "country_id": "152",
+    "city": "Sabaa Aiyoun",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "193",
+    "country_id": "152",
+    "city": "Sebt Jahjouh",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "194",
+    "country_id": "152",
+    "city": "Sidi Addi",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "195",
+    "country_id": "152",
+    "city": "Tichoute",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "196",
+    "country_id": "152",
+    "city": "Tighassaline",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "197",
+    "country_id": "152",
+    "city": "Tighza",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "198",
+    "country_id": "152",
+    "city": "Timahdite",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "199",
+    "country_id": "152",
+    "city": "Tinejdad",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "200",
+    "country_id": "152",
+    "city": "Tizguite",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "201",
+    "country_id": "152",
+    "city": "Toulal",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "202",
+    "country_id": "152",
+    "city": "Tounfite",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "203",
+    "country_id": "152",
+    "city": "Zaouia d'Ifrane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "204",
+    "country_id": "152",
+    "city": "Zaïda",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "205",
+    "country_id": "152",
+    "city": "Ahfir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "206",
+    "country_id": "152",
+    "city": "Aklim",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "207",
+    "country_id": "152",
+    "city": "Al Aroui",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "208",
+    "country_id": "152",
+    "city": "Aïn Bni Mathar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "209",
+    "country_id": "152",
+    "city": "Aïn Erreggada",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "210",
+    "country_id": "152",
+    "city": "Ben Taïeb",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "211",
+    "country_id": "152",
+    "city": "Berkane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "212",
+    "country_id": "152",
+    "city": "Bni Ansar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "213",
+    "country_id": "152",
+    "city": "Bni Chiker",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "214",
+    "country_id": "152",
+    "city": "Bni Drar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "215",
+    "country_id": "152",
+    "city": "Bni Tadjite",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "216",
+    "country_id": "152",
+    "city": "Bouanane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "217",
+    "country_id": "152",
+    "city": "Bouarfa",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "218",
+    "country_id": "152",
+    "city": "Bouhdila",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "219",
+    "country_id": "152",
+    "city": "Dar El Kebdani",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "220",
+    "country_id": "152",
+    "city": "Debdou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "221",
+    "country_id": "152",
+    "city": "Douar Kannine",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "222",
+    "country_id": "152",
+    "city": "Driouch",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "223",
+    "country_id": "152",
+    "city": "El Aïoun Sidi Mellouk",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "224",
+    "country_id": "152",
+    "city": "Farkhana",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "225",
+    "country_id": "152",
+    "city": "Figuig",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "226",
+    "country_id": "152",
+    "city": "Ihddaden",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "227",
+    "country_id": "152",
+    "city": "Jaâdar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "228",
+    "country_id": "152",
+    "city": "Jerada",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "229",
+    "country_id": "152",
+    "city": "Kariat Arekmane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "230",
+    "country_id": "152",
+    "city": "Kassita",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "231",
+    "country_id": "152",
+    "city": "Kerouna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "232",
+    "country_id": "152",
+    "city": "Laâtamna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "233",
+    "country_id": "152",
+    "city": "Madagh",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "234",
+    "country_id": "152",
+    "city": "Midar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "235",
+    "country_id": "152",
+    "city": "Nador",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "236",
+    "country_id": "152",
+    "city": "Naima",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "237",
+    "country_id": "152",
+    "city": "Oued Heimer",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "238",
+    "country_id": "152",
+    "city": "Oujda",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "239",
+    "country_id": "152",
+    "city": "Ras El Ma",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "240",
+    "country_id": "152",
+    "city": "Saïdia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "241",
+    "country_id": "152",
+    "city": "Selouane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "242",
+    "country_id": "152",
+    "city": "Sidi Boubker",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "243",
+    "country_id": "152",
+    "city": "Sidi Slimane Echcharaa",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "244",
+    "country_id": "152",
+    "city": "Talsint",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "245",
+    "country_id": "152",
+    "city": "Taourirt",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "246",
+    "country_id": "152",
+    "city": "Tendrara",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "247",
+    "country_id": "152",
+    "city": "Tiztoutine",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "248",
+    "country_id": "152",
+    "city": "Touima",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "249",
+    "country_id": "152",
+    "city": "Touissit",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "250",
+    "country_id": "152",
+    "city": "Zaïo",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "251",
+    "country_id": "152",
+    "city": "Zeghanghane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "252",
+    "country_id": "152",
+    "city": "Rabat",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "253",
+    "country_id": "152",
+    "city": "Salé",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "254",
+    "country_id": "152",
+    "city": "Ain El Aouda",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "255",
+    "country_id": "152",
+    "city": "Harhoura",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "256",
+    "country_id": "152",
+    "city": "Khémisset",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "257",
+    "country_id": "152",
+    "city": "Oulmès",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "258",
+    "country_id": "152",
+    "city": "Rommani",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "259",
+    "country_id": "152",
+    "city": "Sidi Allal El Bahraoui",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "260",
+    "country_id": "152",
+    "city": "Sidi Bouknadel",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "261",
+    "country_id": "152",
+    "city": "Skhirat",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "262",
+    "country_id": "152",
+    "city": "Tamesna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "263",
+    "country_id": "152",
+    "city": "Témara",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "264",
+    "country_id": "152",
+    "city": "Tiddas",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "265",
+    "country_id": "152",
+    "city": "Tiflet",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "266",
+    "country_id": "152",
+    "city": "Touarga",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "267",
+    "country_id": "152",
+    "city": "Agadir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "268",
+    "country_id": "152",
+    "city": "Agdz",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "269",
+    "country_id": "152",
+    "city": "Agni Izimmer",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "270",
+    "country_id": "152",
+    "city": "Aït Melloul",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "271",
+    "country_id": "152",
+    "city": "Alnif",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "272",
+    "country_id": "152",
+    "city": "Anzi",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "273",
+    "country_id": "152",
+    "city": "Aoulouz",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "274",
+    "country_id": "152",
+    "city": "Aourir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "275",
+    "country_id": "152",
+    "city": "Arazane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "276",
+    "country_id": "152",
+    "city": "Aït Baha",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "277",
+    "country_id": "152",
+    "city": "Aït Iaâza",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "278",
+    "country_id": "152",
+    "city": "Aït Yalla",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "279",
+    "country_id": "152",
+    "city": "Ben Sergao",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "280",
+    "country_id": "152",
+    "city": "Biougra",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "281",
+    "country_id": "152",
+    "city": "Boumalne-Dadès",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "282",
+    "country_id": "152",
+    "city": "Dcheira El Jihadia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "283",
+    "country_id": "152",
+    "city": "Drargua",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "284",
+    "country_id": "152",
+    "city": "El Guerdane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "285",
+    "country_id": "152",
+    "city": "Harte Lyamine",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "286",
+    "country_id": "152",
+    "city": "Ida Ougnidif",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "287",
+    "country_id": "152",
+    "city": "Ifri",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "288",
+    "country_id": "152",
+    "city": "Igdamen",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "289",
+    "country_id": "152",
+    "city": "Ighil n'Oumgoun",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "290",
+    "country_id": "152",
+    "city": "Imassine",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "291",
+    "country_id": "152",
+    "city": "Inezgane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "292",
+    "country_id": "152",
+    "city": "Irherm",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "293",
+    "country_id": "152",
+    "city": "Kelaat-M'Gouna",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "294",
+    "country_id": "152",
+    "city": "Lakhsas",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "295",
+    "country_id": "152",
+    "city": "Lakhsass",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "296",
+    "country_id": "152",
+    "city": "Lqliâa",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "297",
+    "country_id": "152",
+    "city": "M'semrir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "298",
+    "country_id": "152",
+    "city": "Massa (Maroc)",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "299",
+    "country_id": "152",
+    "city": "Megousse",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "300",
+    "country_id": "152",
+    "city": "Ouarzazate",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "301",
+    "country_id": "152",
+    "city": "Oulad Berhil",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "302",
+    "country_id": "152",
+    "city": "Oulad Teïma",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "303",
+    "country_id": "152",
+    "city": "Sarghine",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "304",
+    "country_id": "152",
+    "city": "Sidi Ifni",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "305",
+    "country_id": "152",
+    "city": "Skoura",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "306",
+    "country_id": "152",
+    "city": "Tabounte",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "307",
+    "country_id": "152",
+    "city": "Tafraout",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "308",
+    "country_id": "152",
+    "city": "Taghzout",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "309",
+    "country_id": "152",
+    "city": "Tagzen",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "310",
+    "country_id": "152",
+    "city": "Taliouine",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "311",
+    "country_id": "152",
+    "city": "Tamegroute",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "312",
+    "country_id": "152",
+    "city": "Tamraght",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "313",
+    "country_id": "152",
+    "city": "Tanoumrite Nkob Zagora",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "314",
+    "country_id": "152",
+    "city": "Taourirt ait zaghar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "315",
+    "country_id": "152",
+    "city": "Taroudant",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "316",
+    "country_id": "152",
+    "city": "Temsia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "317",
+    "country_id": "152",
+    "city": "Tifnit",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "318",
+    "country_id": "152",
+    "city": "Tisgdal",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "319",
+    "country_id": "152",
+    "city": "Tiznit",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "320",
+    "country_id": "152",
+    "city": "Toundoute",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "321",
+    "country_id": "152",
+    "city": "Zagora",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "322",
+    "country_id": "152",
+    "city": "Afourar",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "323",
+    "country_id": "152",
+    "city": "Aghbala",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "324",
+    "country_id": "152",
+    "city": "Azilal",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "325",
+    "country_id": "152",
+    "city": "Aït Majden",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "326",
+    "country_id": "152",
+    "city": "Beni Ayat",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "327",
+    "country_id": "152",
+    "city": "Béni Mellal",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "328",
+    "country_id": "152",
+    "city": "Bin elouidane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "329",
+    "country_id": "152",
+    "city": "Bradia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "330",
+    "country_id": "152",
+    "city": "Bzou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "331",
+    "country_id": "152",
+    "city": "Dar Oulad Zidouh",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "332",
+    "country_id": "152",
+    "city": "Demnate",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "333",
+    "country_id": "152",
+    "city": "Dra'a",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "334",
+    "country_id": "152",
+    "city": "El Ksiba",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "335",
+    "country_id": "152",
+    "city": "Foum Jamaa",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "336",
+    "country_id": "152",
+    "city": "Fquih Ben Salah",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "337",
+    "country_id": "152",
+    "city": "Kasba Tadla",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "338",
+    "country_id": "152",
+    "city": "Ouaouizeght",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "339",
+    "country_id": "152",
+    "city": "Oulad Ayad",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "340",
+    "country_id": "152",
+    "city": "Oulad M'Barek",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "341",
+    "country_id": "152",
+    "city": "Oulad Yaich",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "342",
+    "country_id": "152",
+    "city": "Sidi Jaber",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "343",
+    "country_id": "152",
+    "city": "Souk Sebt Oulad Nemma",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "344",
+    "country_id": "152",
+    "city": "Zaouïat Cheikh",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "345",
+    "country_id": "152",
+    "city": "Tanger‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "346",
+    "country_id": "152",
+    "city": "Tétouan‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "347",
+    "country_id": "152",
+    "city": "Akchour",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "348",
+    "country_id": "152",
+    "city": "Assilah",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "349",
+    "country_id": "152",
+    "city": "Bab Berred",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "350",
+    "country_id": "152",
+    "city": "Bab Taza",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "351",
+    "country_id": "152",
+    "city": "Brikcha",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "352",
+    "country_id": "152",
+    "city": "Chefchaouen",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "353",
+    "country_id": "152",
+    "city": "Dar Bni Karrich",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "354",
+    "country_id": "152",
+    "city": "Dar Chaoui",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "355",
+    "country_id": "152",
+    "city": "Fnideq",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "356",
+    "country_id": "152",
+    "city": "Gueznaia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "357",
+    "country_id": "152",
+    "city": "Jebha",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "358",
+    "country_id": "152",
+    "city": "Karia",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "359",
+    "country_id": "152",
+    "city": "Khémis Sahel",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "360",
+    "country_id": "152",
+    "city": "Ksar El Kébir",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "361",
+    "country_id": "152",
+    "city": "Larache",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "362",
+    "country_id": "152",
+    "city": "M'diq",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "363",
+    "country_id": "152",
+    "city": "Martil",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "364",
+    "country_id": "152",
+    "city": "Moqrisset",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "365",
+    "country_id": "152",
+    "city": "Oued Laou",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "366",
+    "country_id": "152",
+    "city": "Oued Rmel",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "367",
+    "country_id": "152",
+    "city": "Ouezzane",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "368",
+    "country_id": "152",
+    "city": "Point Cires",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "369",
+    "country_id": "152",
+    "city": "Sidi Lyamani",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "370",
+    "country_id": "152",
+    "city": "Sidi Mohamed ben Abdallah el-Raisuni",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "371",
+    "country_id": "152",
+    "city": "Zinat",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "372",
+    "country_id": "152",
+    "city": "Ajdir‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "373",
+    "country_id": "152",
+    "city": "Aknoul‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "374",
+    "country_id": "152",
+    "city": "Al Hoceïma‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "375",
+    "country_id": "152",
+    "city": "Aït Hichem‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "376",
+    "country_id": "152",
+    "city": "Bni Bouayach‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "377",
+    "country_id": "152",
+    "city": "Bni Hadifa‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "378",
+    "country_id": "152",
+    "city": "Ghafsai‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "379",
+    "country_id": "152",
+    "city": "Guercif‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "380",
+    "country_id": "152",
+    "city": "Imzouren‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "381",
+    "country_id": "152",
+    "city": "Inahnahen‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "382",
+    "country_id": "152",
+    "city": "Issaguen (Ketama)‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "383",
+    "country_id": "152",
+    "city": "Karia (El Jadida)‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "384",
+    "country_id": "152",
+    "city": "Karia Ba Mohamed‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "385",
+    "country_id": "152",
+    "city": "Oued Amlil‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "386",
+    "country_id": "152",
+    "city": "Oulad Zbair‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "387",
+    "country_id": "152",
+    "city": "Tahla‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "388",
+    "country_id": "152",
+    "city": "Tala Tazegwaght‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "389",
+    "country_id": "152",
+    "city": "Tamassint‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "390",
+    "country_id": "152",
+    "city": "Taounate‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "391",
+    "country_id": "152",
+    "city": "Targuist‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "392",
+    "country_id": "152",
+    "city": "Taza‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "393",
+    "country_id": "152",
+    "city": "Taïnaste‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "394",
+    "country_id": "152",
+    "city": "Thar Es-Souk‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "395",
+    "country_id": "152",
+    "city": "Tissa‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "396",
+    "country_id": "152",
+    "city": "Tizi Ouasli‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "397",
+    "country_id": "152",
+    "city": "Laayoune‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "398",
+    "country_id": "152",
+    "city": "El Marsa‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "399",
+    "country_id": "152",
+    "city": "Tarfaya‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "400",
+    "country_id": "152",
+    "city": "Boujdour‎",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "401",
+    "country_id": "152",
+    "city": "Awsard",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "402",
+    "country_id": "152",
+    "city": "Oued-Eddahab ",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "403",
+    "country_id": "152",
+    "city": "Stehat",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "404",
+    "country_id": "152",
+    "city": "Aït Attab",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  },
+  {
+    "id": "405",
+    "country_id": "210",
+    "city": "Tunis",
+    "created_at": "2022-06-07 12:40:41",
+    "updated_at": "2022-06-07 12:41:30",
+    "deleted_at": null
+  }
+]

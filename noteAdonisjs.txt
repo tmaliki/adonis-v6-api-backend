@@ -1,0 +1,918 @@
+***************************************************************************************************
+********************************* Install AdonisJs Project (API) **********************************
+******************************* Version NodeJS à utiliser : 19.9.0 ********************************
+***************************************************************************************************
+[Install/Uninstall adonisjs/cli globaly]
+$ yarn global add @adonisjs/cli
+$ yarn global remove @adonisjs/cli
+$ # OR
+$ npm install -g @adonisjs/cli
+$ npm uninstall -g @adonisjs/cli
+$
+$ adonis --version
+$
+
+[Create adonis new project with cli or without cli]
+$ ### Create adonis new project with cli
+$ adonis new api
+$ cd api
+$
+$ # Créer un projet API en TypeScript
+$ adonis new api --api-only
+$
+$ adonis serve --dev
+$ # OR
+$ yarn start
+$ # OR
+$ npm start
+$
+$ ### Create adonis new project without cli (adonis 5)
+$ yarn create adonis-ts-app api
+$ # OR
+$ npx create-adonis-ts-app@latest api
+$ npx create-adonis-ts-app@latest api --skip-install # Créer le projet sans installation automatique
+$ # OR
+$ npm create adonis-ts-app@latest api
+$ # result
+╭─────────────────────────────────────────────────╮
+│    Run following commands to get started        │
+│─────────────────────────────────────────────────│
+│                                                 │
+│    ❯ cd api                                     │
+│    ❯ node ace serve --watch                     │
+│                                                 │
+╰─────────────────────────────────────────────────╯
+$
+$ ### Pour lancer le serveur (adonis version > 4)
+$ cd api
+$ node ace serve --watch
+$ # OR
+$ yarn dev
+$ # OR
+$ npm run dev
+$ # Open this url in your browser : http://localhost:3335/
+$
+$ # En production :
+$ node ace build --production
+$ # OR
+$ yarn build
+$ # OR
+$ npm run build
+$
+$ # Check Adonis version
+$ node ace --version
+$ ## Add  command on package.json script
+$ yarn ver
+$ # OR
+$ npm run ver
+$
+╭────────────────────────────────────╮
+│    node ace --version              │
+│────────────────────────────────────|
+│                                    │
+│    App version: 1.0.0              │
+│    Framework version: 5.9.0        │
+│    Assembler version: 5.9.6        │
+│                                    │
+╰────────────────────────────────────╯
+$
+------------------
+Parfait ! Voici un guide complet et actualisé pour installer et configurer 
+AdonisJS 6 (avec Lucid ORM, MySQL2, et structure API-Only), étape par étape.
+------------------
+$ ### Créer le projet AdonisJS 6 (ESM + TypeScript)
+$ yarn create adonisjs@latest api
+$ # OR
+$ npx create-adonisjs@latest api
+$ npx create-adonisjs@latest api --skip-install
+$
+$ cd api
+$ yarn install
+$ node ace serve --watch
+$
+$ ### Create a project with API starter kit and access tokens guard
+$ npm init adonisjs@latest api -- --kit=api --auth-guard=access_tokens
+$
+╭──────────────────────────────────────────────────────────────────╮
+│    Your AdonisJS project has been created successfully!          │
+│──────────────────────────────────────────────────────────────────│
+│                                                                  │
+│    ❯ cd api                                                      │
+│    ❯ npm run dev                                                 │
+│    ❯ Open http://localhost:3333                                  │
+│    ❯                                                             │
+│    ❯ Have any questions?                                         │
+│    ❯ Join our Discord server - https://discord.gg/vDcEjq6        │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+$
+$ # Lancer le serveur de developpement
+$ cd api
+$ npm run dev
+$ # OR
+$ yarn dev
+$
+╭─────────────────────────────────────────────────╮
+│                                                 │
+│    Server address: http://localhost:3335        │
+│    Watch Mode: HMR                              │
+│    Ready in: 11 s                               │
+│                                                 │
+╰─────────────────────────────────────────────────╯
+$
+$ # En production, le projet est compilé avec "node ace build" dans .build/
+$ node ace build
+$ # OR
+$ yarn build
+$ # OR
+$ npm run build
+$
+$ # En production, lancement manuel :
+$ node .build/server.js
+$
+$ # Clean cache
+$ yarn cache clean
+$ # OR
+$ npm cache clean --force
+$ 
+$ ## Launch existing adonis project
+$ rm -rf node_modules
+$ rm package-lock.json
+$ npm install
+$ # OR
+$ rm -rf node_modules
+$ rm yarn.lock
+$ yarn install
+$
+$ # Copy environment variables example
+$ cp .env.example .env
+$
+$ # Generate app key
+$ adonis key:generate
+$ # OR
+$ node ace generate:key
+$
+$ # Tester/Lister les commandes disponibles
+$ node ace list
+$ 
+
+[Manage routes on adonis project]
+$ adonis route:list
+$ adonis route:list --method=GET
+$ adonis route:list --name=nom_de_la_route
+$
+
+[Install Lucid]
+$ yarn add @adonisjs/lucid
+$ yarn add --dev @types/lucid
+$ # OR
+$ npm install @adonisjs/lucid
+$ npm install --save-dev @types/lucid
+$
+
+[Générer le fichier de contracts/http.ts]
+$ node ace generate:types
+$ ## 
+$ mkdir contracts && touch contracts/http.ts
+$
+----------------------------------
+----------------------------------
+[Install mysql / mysql2 driver]
+$ yarn add mysql
+$ yarn add mysql2 # recommandé pour adonis et node.js
+$ # OR
+$ npm install mysql
+$ npm install mysql2 # recommandé pour adonis et node.js
+$
+
+[Install bcrypt]
+$ yarn add bcrypt
+$ # OR
+$ npm install bcrypt
+$
+
+[Install argon2]
+$ yarn add argon2
+$ # OR
+$ npm install argon2
+$
+
+[Install validator]
+$ adonis install @adonisjs/validator
+$ # OR
+$ yarn add @adonisjs/validator
+$ # OR
+$ npm install @adonisjs/validator
+$
+
+[Install i18n]
+$ node ace add @adonisjs/i18n
+$
+
+[Manage mail on adonis project]
+$ adonis install @adonisjs/mail
+$ # OR
+$ yarn add @adonisjs/mail
+$ # OR
+$ npm install @adonisjs/mail
+$
+----------------------------------
+// emails.test
+----------------------------------
+<h1>Welcome to our application</h1>
+<p>We are glad to have you with us.</p>
+<a href="{{ route('api.mail.overview.verify.email', { receiver: mailData.receiver, overviewToken: mailData.overview_token, uuid: mailData.uuid }) }}" title="Ouvrir le mail via le navigateur web" target="_blank">
+  {{ globData().mail.viewProblem || 'Cliquez ici, pour visualiser le mail' }}
+</a>
+----------------------------------
+http://localhost:3335/api/mail-overview/verify-email/default/ODQZctG7LfvdUoNkZSVwpkjZQKZRUaUIuV5XnCFiOyUFpDxjSyLBpU56cVJzw2lBmBXsz1k8cgcPHL8I6w6aH3wUn6ou8FgCapxRskDh9veT8RNxaXqMD6ONWs7KI7eW/f7ab13a2-cb3c-4f73-bf2f-392e4045d685
+----------------------------------
+
+[Installer le package de limitation de débit]
+$ yarn add adonis-throttle
+$ # OR
+$ npm install adonis-throttle
+$
+
+[Install uuid]
+$ yarn add uuid
+$ yarn add --dev @types/uuid
+$ # OR
+$ npm install uuid
+$ npm i --save-dev @types/uuid
+$
+
+[Install slugify]
+$ yarn add slugify
+$ yarn add -D @types/slugify
+$ # OR
+$ npm install slugify
+$ npm i --save-dev @types/slugify
+$
+
+[Install moment/moment-timezone]
+$ yarn add moment moment-timezone
+$ yarn add -D @types/moment-timezone
+$ # OR
+$ npm install moment moment-timezone
+$ npm i --save-dev @types/moment-timezone
+$
+
+[Install luxon]
+$ yarn add luxon
+$ yarn add --dev @types/luxon
+$ # OR
+$ npm install luxon
+$ npm i --save-dev @types/luxon
+$
+
+[Install mime-types]
+$ yarn add mime-types
+$ yarn add -D @types/mime-types
+$ # OR
+$ npm install mime-types
+$ npm install --save-dev @types/mime-types
+$
+
+[Install lodash] // manipulation des données (Collections, Objets, Tableaux)
+$ yarn add lodash
+$ # OR
+$ npm install lodash
+$
+
+[Install JWT]
+$ yarn add jsonwebtoken
+$ yarn add -D @types/jsonwebtoken
+$ # OR
+$ npm install jsonwebtoken
+$ npm install --save-dev @types/jsonwebtoken
+$
+$ touch config/jwt.ts
+$
+----------------------------------
+// config/jwt.ts
+----------------------------------
+module.exports = {
+  // Clé secrète pour signer les tokens
+  secret: Env.get("JWT_SECRET") || Env.get("APP_KEY"), // process.env.JWT_SECRET || 'your_secret_key',
+
+  // Durée d'expiration des tokens // "50s", "15m", "1h", "24h", "7d", "2w", "1y"
+  // expiresIn: '1h', // Exemple : 1 heure
+  expiresIn: 3600 // 1 heure (en secondes)
+
+  // Audience du token (optionnel)
+  audience: 'your_application',
+
+  // Émetteur du token (optionnel)
+  issuer: 'your_application_name',
+
+  // Algorithme de signature du token (optionnel, défaut est HS256)
+  algorithm: 'HS256',
+};
+--------------------------
+expiresIn: "60s"	// 1 minute
+expiresIn: "10m"	// 10 minutes
+expiresIn: "24h"	// 1 jour
+expiresIn: "30d"	// 30 jours
+expiresIn: "2w"	  // 2 semaines
+expiresIn: "1y"	  // 1 an
+--------------------------
+$
+$ [generate secret key]
+$ node -e "console.log(require('crypto').randomBytes(64).toString('hex'));"
+$ node -e "console.log(require('crypto').randomBytes(128).toString('hex'));"
+$ node -e "console.log(require('crypto').randomBytes(256).toString('hex'));"
+$ node -e "console.log(require('crypto').randomBytes(512).toString('hex'));"
+$ node -e "console.log(require('crypto').randomBytes(1024).toString('hex'));"
+$ node -e "console.log(require('crypto').randomBytes(2048).toString('hex'));"
+$
+
+[Installer le package de stockage]
+$ node ace configure drive
+$ # OR : propre à adonis v4
+$ adonis install @adonisjs/drive
+$ # OR
+$ npm install @adonisjs/drive
+$ # OR
+$ yarn add @adonisjs/drive
+$ # OR AdonisJS v6
+$ node ace add @adonisjs/drive
+$
+$ ## Ensuite, enregistre le provider dans start/app.js :
+--------------------------
+const providers = [
+  "@adonisjs/drive/providers/DriveProvider",
+];
+--------------------------
+$ ## Après cela, redémarre ton serveur avec :
+$ adonis serve --dev
+$
+$ ## Générer le fichier de configuration
+$ touch config/drive.js
+$
+##### Avec adonisjs 4 :
+--------------------------
+// config/drive.js :
+--------------------------
+"use strict";
+const Helpers = use("Helpers");
+const Env = use("Env");
+module.exports = {
+  disk: "local",
+  disks: {
+    local: {
+      driver: "local",
+      root: Helpers.appRoot("storage/app"),
+    },
+    s3: {
+      driver: "s3",
+      key: Env.get("S3_KEY"),
+      secret: Env.get("S3_SECRET"),
+      bucket: Env.get("S3_BUCKET"),
+      region: Env.get("S3_REGION"),
+      endpoint: Env.get("S3_ENDPOINT"), // Facultatif
+    },
+  },
+};
+--------------------------
+$
+$ ## Créer un lien symbolique manuellement
+$ # Si tu veux garder tes fichiers dans storage/app/public/, tu peux créer un lien symbolique pointant vers public/storage/ avec cette commande :
+$ ## Créer Sur Linux/macOS :
+$ ln -s storage/app/public public/storage
+$
+$ Sur Windows - CMD ou PowerShell en mode Administrateur :
+$ mklink /D public\storage storage\app\public
+$ New-Item -ItemType SymbolicLink -Path public\storage -Target storage\app\public
+$
+--------------------------
+Ainsi, tu peux accéder aux fichiers via :
+--------------------------
+http://localhost:3335/storage/blank_01.png # visualiser
+http://localhost:3335/api/download-or-preview/public/blank_01.png # télécharger
+http://localhost:3335/api/download-or-preview/public/blank_01.png?prev= # visualiser
+http://localhost:3335/api/download-or-preview/public/blank_01.png?prev=v # visualiser
+http://localhost:3335/api/download-or-preview/uploads/blank_01.png?prev=v # visualiser
+--------------------------
+
+[Create Model for this project]
+$ node ace make:model AuthAccessToken
+$
+$ node ace make:model Lang -mfs
+$ node ace make:model Currency -m
+$ node ace make:model Country -m
+$ node ace make:model City -m
+$ node ace make:model Civility -m
+$ node ace make:model Society -m
+$ node ace make:model Setting -m
+$ node ace make:model Menu -m
+$ node ace make:model Type -m
+$ node ace make:model Level -m
+$ node ace make:model Status -m
+$ node ace make:model Unit -m
+$ node ace make:model Role -m
+$ node ace make:model Admin -m
+$ node ace make:model AdminAccessLog -m
+$ node ace make:model Teacher -m
+$ node ace make:model TeacherAccessLog -m
+$ node ace make:model Student -m
+$ node ace make:model StudentAccessLog -m
+$ node ace make:model AcademicYear -m
+$ node ace make:model Cycle -m
+$ node ace make:model Formation -m
+$ node ace make:model Field -m
+$ node ace make:model Period -m
+$ node ace make:model Module -m
+$ node ace make:model Course -m
+$ node ace make:model Enrollment -m
+$ node ace make:model Grade -m
+$
+
+[Create Migration for this project]
+$ node ace make:migration password_resets
+$ node ace make:migration admins_menus
+$ node ace make:migration courses_periods
+$ node ace make:migration enrollments_periods
+$ node ace make:migration teachers_courses
+$
+$ ## exécution de la migration
+$ node ace migration:run
+$ node ace migration:run --force
+$
+$ # execution des scripts definis
+$ yarn migration
+$
+$ ## annuler la dernière migration
+$ node ace migration:rollback
+$
+$ ## annuler une migration spécifique
+$ node ace migration:rollback --batch 1618931732798_langs_schema.js
+$
+
+[Create Seeder/Factory for this project]
+$ ## Seeder global DatabaseSeeder
+$ node ace make:seeder Database
+$
+$ ## Individual seeder to add to DatabaseSeeder
+$ node ace make:seeder seeds\Lang
+$ node ace make:seeder seeds\Currency
+$ node ace make:seeder seeds\Country
+$ node ace make:seeder seeds\City
+$ node ace make:seeder seeds\Civility
+$ node ace make:seeder seeds\Society
+$ node ace make:seeder seeds\Setting
+$ node ace make:seeder seeds\Menu
+$ node ace make:seeder seeds\Type
+$ node ace make:seeder seeds\Level
+$ node ace make:seeder seeds\Status
+$ node ace make:seeder seeds\Unit
+$ node ace make:seeder seeds\Role
+$ node ace make:seeder seeds\Admin
+$ node ace make:seeder seeds\Teacher
+$ node ace make:seeder seeds\Student
+$ node ace make:seeder seeds\AcademicYear
+$ node ace make:seeder seeds\Cycle
+$ node ace make:seeder seeds\Formation
+$ node ace make:seeder seeds\Field
+$ node ace make:seeder seeds\Period
+$ 
+$ ## execute seeders
+$ node ace db:seed
+$ node ace db:seed --force
+$ node ace db:seed --files=database/seeders/database_seeder.ts
+$
+$ # execution des scripts definis
+$ yarn seeds # execute all seeder file in "database/seeders" one by one
+$ yarn dbSeed # execute specific file : database/seeders/database_seeder.ts
+$
+$ ## Individual factory
+$ node ace make:factory Teacher
+$ node ace make:factory Student
+$
+
+[Create Controller for this project]
+$ node ace make:controller WebController
+$ node ace make:controller MigrationController
+$
+$ ## authentification api
+$ node ace make:controller auth/ApiAuthAdminController
+$ node ace make:controller auth/ApiAuthTeacherController
+$ node ace make:controller auth/ApiAuthStudentController
+$
+$ ## global api without token
+$ node ace make:controller api/GlobalController
+$ node ace make:controller api/MailOverviewController
+$
+$ ## Backoffice api
+$ node ace make:controller api/backoffs/AccountController --type http
+$ node ace make:controller api/backoffs/DashboardController --type http
+$ node ace make:controller api/backoffs/AdminController --type http
+$ node ace make:controller api/backoffs/MemberController --type http
+$ node ace make:controller api/backoffs/OrganCategoryController --type http
+$ node ace make:controller api/backoffs/OrganPositionController --type http
+$ node ace make:controller api/backoffs/OrganMandatureController --type http
+$ node ace make:controller api/backoffs/OrganNominateController --type http
+$ node ace make:controller api/backoffs/StudyLevelController --type http
+$ node ace make:controller api/backoffs/CountryController --type http
+$ node ace make:controller api/backoffs/TypeController --type http
+$ node ace make:controller api/backoffs/CivilityController --type http
+$ node ace make:controller api/backoffs/EventController --type http
+$ node ace make:controller api/backoffs/ArticleController --type http
+$ node ace make:controller api/backoffs/HomeSliderController --type http
+$ node ace make:controller api/backoffs/PartnerController --type http
+$ node ace make:controller api/backoffs/FrontPageController --type http
+$
+$ ## Teachers api
+$ node ace make:controller api/Teachers/ContactFormController --type http
+$ node ace make:controller api/Teachers/NewsletterController --type http
+$ node ace make:controller api/Teachers/MemberMeetingController --type http
+$ node ace make:controller api/Teachers/HomeController --type http
+$ node ace make:controller api/Teachers/TeamController --type http
+$ node ace make:controller api/Teachers/PartnerController --type http
+$ node ace make:controller api/Teachers/EventController --type http
+$ node ace make:controller api/Teachers/ArticleController --type http
+$ node ace make:controller api/Teachers/FrontPageController --type http
+$
+$ ## Students api
+$ node ace make:controller api/Students/ContactFormController --type http
+$ node ace make:controller api/Students/NewsletterController --type http
+$ node ace make:controller api/Students/MemberMeetingController --type http
+$ node ace make:controller api/Students/HomeController --type http
+$ node ace make:controller api/Students/TeamController --type http
+$ node ace make:controller api/Students/PartnerController --type http
+$ node ace make:controller api/Students/EventController --type http
+$ node ace make:controller api/Students/ArticleController --type http
+$ node ace make:controller api/Students/FrontPageController --type http
+$ 
+
+[Create validator in AdonisJs]
+$ node ace make:validator Admin
+$ node ace make:validator Student
+$ node ace make:validator Teacher
+$ node ace make:validator OrganCategory
+$ node ace make:validator OrganPosition
+$ node ace make:validator OrganMandature
+$ node ace make:validator OrganNominate
+$ node ace make:validator StudyLevel
+$ node ace make:validator Country
+$ node ace make:validator Type
+$ node ace make:validator Civility
+$ node ace make:validator Event
+$ node ace make:validator Article
+$ node ace make:validator HomeSlider
+$ node ace make:validator Partner
+$ node ace make:validator FrontPage
+$ 
+
+[Create Middleware for this project]
+$ node ace make:middleware HandleInvalidRoute
+$ node ace make:middleware DisableCsrf
+$ node ace make:middleware BackoffApiAuth
+$ node ace make:middleware TeacherApiAuth
+$ node ace make:middleware StudentApiAuth
+$
+
+[]
+$
+$
+
+################################################################################
+********************************************************************************
+********************* Manage AdonisJs 4 et 5
+********************************************************************************
+################################################################################
+[Manage Model in AdonisJs]
+$ ## create model
+$ adonis make:model NomDuModele
+$ adonis make:model Lang
+$ # OR
+$ node ace make:model NomDuModele
+$ node ace make:model Lang
+$
+$ # create model and migration
+$ node ace make:model Lang -m
+$
+$ # generate model and migration and factory and seeder
+$ node ace make:model Lang -mfs
+$
+
+[Manage Migration in AdonisJs]
+$ ## create migration
+$ adonis make:migration nom_de_la_table
+$ adonis make:migration langs
+$ # OR
+$ node ace make:migration nom_de_la_table
+$ node ace make:migration langs
+$
+$ ## add column in existing migration
+$ adonis make:migration add_deleted_at_to_langs
+$ # OR
+$ node ace make:migration add_deleted_at_to_langs
+$
+$ ## exécution de la migration
+$ adonis migration:run
+$ adonis migration:run --force
+$ # OR
+$ node ace migration:run
+$ node ace migration:run --force
+$
+$ # execution des scripts definis
+$ yarn migration
+$ yarn migration:run
+$ # OR
+$ npm run migration
+$ npm run migration:run
+$
+$ ## annuler la dernière migration
+$ adonis migration:rollback
+$ # OR
+$ node ace migration:rollback
+$
+$ ## annuler une migration spécifique
+$ adonis migration:rollback --batch 1618931732798_nom_migration.js
+$ adonis migration:rollback --batch 1618931732798_langs_schema.js
+$ # OR
+$ node ace migration:rollback --batch 1618931732798_nom_migration.js
+$ node ace migration:rollback --batch 1618931732798_langs_schema.js
+$
+
+[Manage Factory/Seeder in AdonisJs]
+$ ## create factory
+$ adonis make:factory NomDuFactory
+$ adonis make:factory Lang
+$ # OR
+$ node ace make:factory NomDuFactory
+$ node ace make:factory Lang
+$
+$ ## create seeder
+$ mkdir database/seeders/seeds
+$
+$ adonis make:seed NomDuSeeder
+$ adonis make:seed seeds\Lang
+$ # OR
+$ node ace make:seeder NomDuSeeder
+$ node ace make:seeder seeds\Lang
+$
+$ ## execute seeders
+$ adonis seed
+$ # OR
+$ node ace seed
+$ node ace seed --force
+$ # OR
+$ node ace db:seed
+$ node ace db:seed --force
+$
+$ # execute a specifique seeder
+$ node ace db:seed --files=database/seeders/database_seeder.ts
+$
+$ # execution des scripts definis
+$ yarn seeds
+$ yarn dbSeed
+$ yarn seed:run
+$ # OR
+$ npm run seeds
+$ npm run dbSeed
+$ npm run seed:run
+$
+
+[Manage Controller in AdonisJs]
+$ ## create controller
+$ adonis make:controller NomDuController
+$ adonis make:controller LangController
+$ # OR
+$ node ace make:controller NomDuController
+$ node ace make:controller LangController
+$
+$ ## create controller in other folder
+$ adonis make:controller Dossier/NomDuController
+$ adonis make:controller Dossier/LangController
+$ # OR
+$ node ace make:controller Dossier/NomDuController
+$ node ace make:controller Dossier/LangController
+$
+$ ## create controller with resources
+$ adonis make:controller NomDuController --resource
+$ adonis make:controller LangController --resource
+$ # OR
+$ node ace make:controller NomDuController --resource
+$ node ace make:controller LangController --resource
+$
+$ ## create controller specify type
+$ adonis make:controller NomDuController --type http
+$ adonis make:controller LangController --type ws
+$ # OR
+$ node ace make:controller NomDuController --type http
+$ node ace make:controller LangController --type ws
+$
+$ ## create controller with resources for api
+$ adonis make:controller NomDuController --api
+$ adonis make:controller LangController --api
+$ # OR
+$ node ace make:controller NomDuController --api
+$ node ace make:controller LangController --api
+$
+
+[Manage validator in AdonisJs]
+$ adonis make:validator NomDuValidator
+$ adonis make:validator Lang
+$ # OR
+$ node ace make:validator NomDuValidator
+$ node ace make:validator Lang
+$
+
+[Manage Middleware in AdonisJs]
+$ ## create middleware
+$ adonis make:middleware NomDuMiddleware
+$ adonis make:middleware AuthMiddleware
+$ # OR
+$ node ace make:middleware NomDuMiddleware
+$ node ace make:middleware AuthMiddleware
+$
+$ ## create middleware specify type
+$ adonis make:middleware NomDuMiddleware --type http
+$ adonis make:middleware NomDuMiddleware --type ws
+$ adonis make:middleware NomDuMiddleware --type both
+$ # OR
+$ node ace make:middleware NomDuMiddleware --type http
+$ node ace make:middleware NomDuMiddleware --type ws
+$ node ace make:middleware NomDuMiddleware --type both
+$
+
+[Create custom command in AdonisJs]
+$ adonis make:command MakeResource
+$ # OR
+$ node ace make:command MakeResource
+$
+
+----------------------------------
+## script for adonis 4 :
+----------------------------------
+"scripts": {
+  "start": "node server.js",
+  "test": "node ace test",
+  "ace": "node ace",
+  "migration:run": "node ace migration:run --force",
+  "seed:run": "node ace seed --force"
+}
+----------------------------------
+----------------------------------
+## script for adonis 5 :
+----------------------------------
+"scripts": {
+    "ver": "node ace --version",
+    "dev": "node ace serve --watch",
+    "build": "node ace build --production",
+    "start": "node server.js",
+    "test": "node ace test",
+    "lint": "eslint . --ext=.ts",
+    "format": "prettier --write .",
+    "migration" : "node ace migration:run",
+    "seed" : "node ace db:seed"
+  },
+----------------------------------
+----------------------------------
+## script for adonis 6 :
+----------------------------------
+"scripts": {
+    "start": "node bin/server.js",
+    "dev": "node ace serve --hmr",
+    "build": "node ace build",
+    "test": "node ace test",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "typecheck": "tsc --noEmit",
+    "prodNpm": "npm run build && node .build/server.js",
+    "prodYarn": "yarn build && node .build/server.js",
+    "migration": "node ace migration:run",
+    "seeds": "node ace db:seed",
+    "dbSeed": "node ace db:seed --files=database/seeders/database_seeder.ts"
+  },
+----------------------------------
+
+********************************************************************************
+*********************************** Bug/Error **********************************
+********************************************************************************
+
+[ Identifier et tuer le processus utilisant le port 3333]
+$ ***** Sous Windows
+$ ### Solution 1 :
+$ # Vérifiez quel processus utilise le port 3333 avec la commande suivante :
+$ netstat -ano | findstr :3333
+------------------
+Résultat attendu :
+TCP    [::1]:3333           LISTENING       12345
+------------------
+$
+$ # Tuez le processus utilisant le port 3333 avec la commande suivante :
+$ taskkill /PID 12345 /F
+$
+$ ### Solution 2 :
+$ # Voir les processus Node.js en cours d'exécution :
+$ tasklist /FI "IMAGENAME eq node.exe"
+$
+$ # Tuez tous les processus Node.js actifs :
+$ taskkill /IM node.exe /F
+$
+$ ***** Sur Linux/Mac :
+$ ### Solution 1 :
+$ # Identifiez le processus qui utilise le port 3333 :
+$ lsof -i :3333
+$ # OR
+$ ps aux | grep node
+$
+$ # Tuez le processus en utilisant le numéro de PID :
+$ kill -9 <PID>
+$
+$ ### Solution 2 :
+$ # Installez PM2 globalement :
+$ npm install -g pm2
+$
+$ # Démarrez votre application avec PM2 :
+$ pm2 start server.js --name "adonis-app"
+$
+$ # Gérer les processus avec PM2 :
+$ pm2 list
+$ pm2 stop adonis-app
+$ pm2 restart adonis-app
+$
+
+----------------------------------
+// run-migration.js
+----------------------------------
+const { Ignitor } = require("@adonisjs/ignitor");
+
+new Ignitor(require("@adonisjs/fold"))
+  .appRoot(__dirname)
+  .fireHttpServer()
+  .then(() => {
+    const ace = require("@adonisjs/ace");
+    ace
+      .call("migration:run", {}, { force: true })
+      .then(() => {
+        console.log("Migrations executed successfully!");
+        process.exit(0);
+      })
+      .catch((error) => {
+        console.error("Error running migrations:", error);
+        process.exit(1);
+      });
+  })
+  .catch(console.error);
+
+----------------------------------
+// run-seed.js
+----------------------------------
+const { Ignitor } = require("@adonisjs/ignitor");
+
+new Ignitor(require("@adonisjs/fold"))
+  .appRoot(__dirname)
+  .fireHttpServer()
+  .then(() => {
+    const ace = require("@adonisjs/ace");
+    ace
+      .call("db:seed", {}, { force: true })
+      .then(() => {
+        console.log("Seeds executed successfully!");
+        process.exit(0);
+      })
+      .catch((error) => {
+        console.error("Error running seeds:", error);
+        process.exit(1);
+      });
+  })
+  .catch(console.error);
+
+----------------------------------
+// app\Controllers\Http\MigrationController.js
+----------------------------------
+"use strict";
+
+class MigrationController {
+  async runMigration({ response }) {
+    const { exec } = require("child_process");
+    exec("node run-migration.js", (error, stdout, stderr) => {
+      if (error) {
+        return response.status(500).send(`Migration error: ${stderr}`);
+      }
+      return response.send(`Migration result: ${stdout}`);
+    });
+  }
+
+  async runSeed({ response }) {
+    const { exec } = require("child_process");
+    exec("node run-seed.js", (error, stdout, stderr) => {
+      if (error) {
+        return response.status(500).send(`Seed error: ${stderr}`);
+      }
+      return response.send(`Seed result: ${stdout}`);
+    });
+  }
+}
+
+module.exports = MigrationController;
+
+// path : api/back/run
+Route.group(() => {
+  Route.get("/migration", "MigrationController.runMigration");
+  Route.get("/seed", "MigrationController.runSeed");
+}).prefix("api/back/run");

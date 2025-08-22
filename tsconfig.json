@@ -1,0 +1,34 @@
+{
+  "extends": "@adonisjs/tsconfig/tsconfig.app.json",
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "./build",
+    // custom add
+    "strict": true,
+    "baseUrl": ".", // obligatoire si tu utilises paths
+    "paths": {
+      // "#modules/*": ["modules/*"],
+      "#app/*": ["app/*"],
+      "#controllers/*": ["app/controllers/*"],
+      "#exceptions/*": ["app/exceptions/*"],
+      "#models/*": ["app/models/*"],
+      "#mails/*": ["app/mails/*"],
+      "#services/*": ["app/services/*"],
+      "#listeners/*": ["app/listeners/*"],
+      "#events/*": ["app/events/*"],
+      "#middleware/*": ["app/middleware/*"],
+      "#validators/*": ["app/validators/*"],
+      "#providers/*": ["providers/*"],
+      "#policies/*": ["app/policies/*"],
+      "#abilities/*": ["app/abilities/*"],
+      "#database/*": ["database/*"],
+      "#start/*": ["start/*"],
+      "#tests/*": ["tests/*"],
+      "#config/*": ["config/*"],
+      "#utils/*": ["app/utils/*"],
+      "#types/*": ["app/types/*"]
+    },
+    "types": ["@adonisjs/core"]
+  },
+  "include": ["app/**/*.ts", "start/**/*.ts"]
+}
