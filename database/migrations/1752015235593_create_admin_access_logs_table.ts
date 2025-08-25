@@ -24,7 +24,7 @@ export default class extends BaseSchema {
           enumName: 'access_enum',
         })
         .notNullable()
-        .defaultTo('SUCCESSFUL')
+        .defaultTo('successful')
       table.string('message').nullable()
       table.text('error_detail').nullable()
       table.string('ipv4', 50).nullable()
